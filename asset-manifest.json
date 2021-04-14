@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tvf-calendar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tvf-calendar/static/js/main.6669c91a.chunk.js",
+    "main.js.map": "/tvf-calendar/static/js/main.6669c91a.chunk.js.map",
+    "runtime-main.js": "/tvf-calendar/static/js/runtime-main.fcb44409.js",
+    "runtime-main.js.map": "/tvf-calendar/static/js/runtime-main.fcb44409.js.map",
+    "static/js/2.a21cbdbe.chunk.js": "/tvf-calendar/static/js/2.a21cbdbe.chunk.js",
+    "static/js/2.a21cbdbe.chunk.js.map": "/tvf-calendar/static/js/2.a21cbdbe.chunk.js.map",
+    "static/js/3.eac88bcb.chunk.js": "/tvf-calendar/static/js/3.eac88bcb.chunk.js",
+    "static/js/3.eac88bcb.chunk.js.map": "/tvf-calendar/static/js/3.eac88bcb.chunk.js.map",
+    "index.html": "/tvf-calendar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tvf-calendar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a21cbdbe.chunk.js.LICENSE.txt": "/tvf-calendar/static/js/2.a21cbdbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb44409.js",
+    "static/js/2.a21cbdbe.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6669c91a.chunk.js"
+  ]
+}
